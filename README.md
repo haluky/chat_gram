@@ -14,6 +14,8 @@ to a chat service.  With it, you can...
   (Note: This requires custom location search => lat/long coordinates
 integration).
 
+  Herp Derp
+
 ## Installation
 
 1. Clone the repo [from GitHub][gh].
